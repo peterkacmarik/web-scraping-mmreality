@@ -70,3 +70,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Your Name – [@your_twitter](https://twitter.com/your_twitter) – email@example.com
 
 Project Link: [https://github.com/your-username/mmreality-scraper](https://github.com/your-username/mmreality-scraper)
+
+**Note:**
+
+This script is for educational purposes only. Be mindful of Daft.ie's terms of service when scraping their website.
